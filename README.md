@@ -1,6 +1,6 @@
 ### Hey, I'm Jules 👋
 
-Also known as **infectedware** — 15, French, living in Romania since 2021. I've been developing on Minecraft since I was 11, and it's been my main thing ever since: plugins, custom gameplay systems, server configuration, and the infrastructure that keeps it all running.
+Also known as **infectedware**, 15, French, I've been developing on Minecraft since I was 11, and it's been my main thing ever since: plugins, custom gameplay systems, server configuration, and the infrastructure that keeps it all running.
 
 Most of what I write is server-side Java for Spigot/Paper/Folia, paired with the day-to-day of actually operating servers — optimization, administration and keeping things stable under real player load.
 
@@ -8,11 +8,5 @@ Most of what I write is server-side Java for Spigot/Paper/Folia, paired with the
 - ⚔️ Head Developer at **SpearMaceFFA**, Co-Owner at **NetheriteMaceFFA**, and Developer on **PigFFA**.
 - 🧵 I port and maintain plugins for [Folia](https://github.com/PaperMC/Folia), Paper's region-threaded server.
 - 🌐 My full CV / portfolio lives at **[jules0061.github.io](https://jules0061.github.io)**.
-
-**Plugins I'm most proud of**
-
-- **[FoliaKillstreaks](https://github.com/Jules0061/FoliaKillstreaks)** — highly optimized killstreaks with custom milestones, sounds, titles, broadcasts and leaderboards. Running on CloneDupe.
-- **[FoliaDupe](https://github.com/Jules0061/FoliaDupe)** — configurable dupe plugin with drop overflow handling, material and NBT blacklists, and fully customizable messages. Running on CloneDupe.
-- **[SlashStringFolia](https://github.com/Jules0061/SlashStringFolia)** — the first Java plugin I ever released publicly, also on [Modrinth](https://modrinth.com/plugin/slashstringfolia).
 
 `Java` · `Skript` · `Python` · `JavaScript` · `HTML/CSS`
