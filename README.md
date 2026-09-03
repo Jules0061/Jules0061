@@ -15,4 +15,5 @@ I'm especially interested in **server optimization, advanced staff and moderatio
 I'm fascinated by hackers and cybersecurity, and i find the techniques and methods behind it genuinely interesting. It's something i enjoy learning about, but i have no intention of becoming one, it's not something i wanna do.
 
 My full CV and portfolio are available at **[jules0061.github.io](https://jules0061.github.io)** & **https://infectedware.dev/**.
+
 `Java` · `Skript` · `Python` · `JavaScript` · `HTML/CSS`
