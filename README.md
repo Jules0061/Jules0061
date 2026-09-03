@@ -1,8 +1,8 @@
 ### Hey, i'm Jules 👋
 
-Also known as **infectedware**, i'm a 15 year old developer from France. I've been developing since i was 11 year old, and over the years it has grown into my main passion. From writing plugins and building custom gameplay systems to configuring, optimizing, and operating servers in production.
+Also known as **infectedware**, i'm a 15 year old developer from France. I've been developing since i was 11 year old, and over the years it has grown into my main passion. From writing skripts, plugins and building custom  systems to configuring, optimizing, and operating servers.
 
-I'm particularly fascinated by **Folia and region-threaded Minecraft server architecture**, as well as the technical side of running large and complex servers. I enjoy working on things like **advanced server optimizations, performance, infrastructure, staff systems, moderation tools, and custom systems** designed to keep servers stable.
+I'm particularly fascinated by **Folia Minecraft servers**, as well as the technical side of running large servers. I enjoy working on things like **advanced server optimizations, performance, infrastructure, staff systems, moderation tools, and custom systems** on Minecraft servers, designed to keep servers stable.
 
 I founded and run **[CloneDupe](https://discord.gg/clonedupe)** (`CloneDupe.net`), owner, full-time developer, and system administrator since December 2023. I develop and maintain the custom plugins & systems inside the server.
 Head Developer at **[SpearMaceFFA](https://discord.gg/spearmaceffa)**, Co-Owner at **[NetheriteMaceFFA](https://discord.gg/T5SXquepKB)**, and Developer at **[PigFFA](https://discord.gg/pigffa)**.
