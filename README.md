@@ -1,6 +1,6 @@
 ### Hey, i'm Jules 👋
 
-Also known as **infectedware**, i'm a 15 year old developer from France. I've been developing since i was 11 year old, and over the years it has grown into my main passion. From writing skripts, plugins and building custom  systems to configuring, optimizing, and operating servers.
+Also known as **infectedware**, i'm a 15 year old french developer. I've been developing since i was 11 year old, and over the years it has grown into my main passion. From writing skripts, plugins and building custom  systems to configuring, optimizing, and operating servers.
 
 I'm particularly fascinated by **Folia Minecraft servers**, as well as the technical side of running large servers. I enjoy working on things like **advanced server optimizations, performance, infrastructure, staff systems, moderation tools, and custom systems** on Minecraft servers, designed to keep servers stable.
 
