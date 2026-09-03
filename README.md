@@ -16,4 +16,4 @@ I'm fascinated by hackers and cybersecurity, and i find the techniques and metho
 
 My full CV and portfolio are available at **[jules0061.github.io](https://jules0061.github.io)** & **https://infectedware.dev/**.
 
-`Java` · `Skript` · `Python` · `JavaScript` · `HTML/CSS`
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) · `Skript` · `Python` · `JavaScript` · `HTML/CSS`
