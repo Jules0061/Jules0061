@@ -6,14 +6,9 @@ I'm particularly fascinated by **Folia Minecraft servers**, as well as the techn
 
 I founded and run **[CloneDupe](https://discord.gg/clonedupe)** (`CloneDupe.net`), owner, full-time developer, and system administrator since December 2023. I develop and maintain the custom plugins & systems inside the server.
 
-Head Developer at **[SpearMaceFFA](https://discord.gg/spearmaceffa)**, Co-Owner at **[NetheriteMaceFFA](https://discord.gg/T5SXquepKB)**, and Developer at **[PigFFA](https://discord.gg/pigffa)**.
-
 I develop plugins for **[Folia](https://github.com/PaperMC/Folia)** and **[CanvasMC](https://github.com/CraftCanvasMC/Canvas)**.
 
 I'm especially interested in **server optimization, advanced staff and moderation systems, custom infrastructure, and pushing Minecraft servers to it's maximum potential**.
 
 I'm fascinated by hackers and cybersecurity, and i find the techniques and methods behind it genuinely interesting. It's something i enjoy learning about, but i have no intention of becoming one, it's not something i wanna do.
-
-My full CV and portfolio are available at **[jules0061.github.io](https://jules0061.github.io)** & **https://infectedware.dev/**.
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
