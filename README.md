@@ -12,8 +12,7 @@ I develop plugins for **[Folia](https://github.com/PaperMC/Folia)** and **[Canva
 
 I'm especially interested in **server optimization, advanced staff and moderation systems, custom infrastructure, and pushing Minecraft servers to it's maximum potential**.
 
-I'm fascinated by hackers and cybersecurity, and i find the techniques and mindset behind it genuinely interesting. It's something i enjoy learning about from a technical perspective, but i have no intention of becoming a hacker or using those skills maliciously, and it's not something i want to do.
-
+I'm fascinated by hackers and cybersecurity, and i find the techniques and methods behind it genuinely interesting. It's something i enjoy learning about, but i have no intention of becoming one, it's not something i wanna do.
 My full CV and portfolio are available at **[jules0061.github.io](https://jules0061.github.io)** & **https://infectedware.dev/**.
 
 `Java` · `Skript` · `Python` · `JavaScript` · `HTML/CSS`
