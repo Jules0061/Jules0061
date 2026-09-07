@@ -4,7 +4,7 @@ Also known as **infectedware**, i'm a 15 year old french developer. I've been de
 
 I'm particularly fascinated by **Folia Minecraft servers**, as well as the technical side of running large servers. I enjoy working on things like **advanced server optimizations, performance, infrastructure, staff systems, moderation tools, and custom systems** on Minecraft servers, designed to keep servers stable.
 
-I founded and run **[CloneDupe](https://discord.gg/clonedupe)** (`CloneDupe.net`), owner, full-time developer, and system administrator since December 2023. I develop and maintain the custom plugins & systems inside the server.
+I founded and run **[CloneDupe](https://discord.gg/clonedupe)** (`CloneDupe.net`), owner, full-time developer, and system administrator since December 2023. I develop and maintain the custom plugins & systems inside the server, most of them are available inside my github repos.
 
 CV / Portofolio: https://infectedware.dev/
 
